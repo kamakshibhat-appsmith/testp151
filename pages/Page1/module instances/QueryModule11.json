@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "6690e1b32f394e05eaa9edb8_79804b71-e143-42b1-84d8-27e53fb812e9",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "54f275b4-9083-4e3c-95fc-1e130614d674",
+  "packageUUID": "c65de81d-2d91-48a2-9383-c1327e5e58c6",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "11"
+    },
+    "moduleInputs": {
+      "izyclhelml": {}
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.13"
+  }
+}
